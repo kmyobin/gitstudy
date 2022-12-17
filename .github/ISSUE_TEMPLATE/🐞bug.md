@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41EBUG"
-about: 버그가 발생했을 때 쓰는 템플릿
+about: Bug
 title: ''
 labels: bug
 assignees: kmyobin
